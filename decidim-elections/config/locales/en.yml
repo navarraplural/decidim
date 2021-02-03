@@ -216,8 +216,12 @@ en:
           tally:
             title: Tally process
           tally_ended:
+            answer: Answer
+            question: Question
+            result: Result
+            results: Results
             submit: Publish results
-            title: Results calculated
+            title: Calculated results
           vote:
             errors:
               time_after: The election is still ongoing. You have to wait until the ending time (%{end_time}) to end the voting period.
